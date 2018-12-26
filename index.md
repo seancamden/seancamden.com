@@ -1,14 +1,13 @@
 ---
----
 title: "Sean Camden"
 nav_title: "Sean Camden's homepage"
 order: 1
 first_published: "December 2018"
 editors:
   - Sean Camden: "http://www.seancamden.com/"
-layout: home
+layout: default
 ---
-[sean@seancamden.com](mailto:sean@seancamden.com)  
+[sean@seancamden.com](mailto:domainleech6@seancamden.com)  
 Novato, CA 94945
 
 ## Webmaster
